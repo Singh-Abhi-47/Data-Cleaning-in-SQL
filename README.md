@@ -23,4 +23,5 @@ To run the SQL code:
 3. Copy and execute the SQL queries sequentially.
 
 ---
-The dataset named: "Nashville Housing Data for Data Cleaning.xlsx" was used for this project.
+-> The dataset named: "Nashville Housing Data for Data Cleaning.xlsx" was used for this project.
+-> The dataset named: "Housing Data Clean.xlsx" is the cleaned output of the previous data.
